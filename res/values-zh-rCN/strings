@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">高斯模糊系统UI</string>
+    <string name="app_description">开发者: SERAJR (2014) | 4.2+</string>
+    
+    <string name="about_menu_title">关于&#8230;</string>
+	<string name="exit_menu_title">退出 !!</string>
+	
+	<string name="restart_menu_title">重启 System UI</string>
+	<string name="restart_menu_message">"System UI 将被重启!
+
+警告:
+主题和/或壁纸或许会丢失. 重启进程将花费一定的时间 (请耐心等待)!!"</string>
+	
+	<string name="dialog_color_picker">颜色拾取器</string>
+    <string name="press_color_to_apply">Press on color to apply</string>
+    
+    <string name="blur_enabled_title">启用</string>
+    
+    <string name="blur_settings_title">高斯模糊设置</string>
+    	<string name="blur_scale_title">位图模式</string>
+    	<string name="blur_radius_title">柔化半径</string>
+    	<string name="blur_color_title">色彩滤镜</string>
+    	<string name="blur_benchmark_category_title">Blur Benchmark</string>
+    	<string name="blur_process_time_title">Blur Process Time</string>
+    	<string name="blur_process_update_summary">点我来更新数据</string>
+    	<string name="blur_process_no_data_summary">没有数据！请下拉通知栏获取基本数据！！</string>
+
+    <string name="notifications_title">通知</string>
+    	<string name="notifications_translucent_background_title">半透明背景</string>
+    	<string name="notifications_translucent_background_summary">使所有通知事件的背景半透明</string>
+    	
+    <string name="adjustments_title">调整</string>
+    	<string name="adjustments_fade_in_out_title">模糊的淡入淡出</string>
+    	<string name="adjustments_fade_in_out_summary">打开或关闭通知面板时启用淡入淡出动画</string>
+    	<string name="adjustments_start_margin_portrait_title">Start Margin - Portrait</string>
+    	<string name="adjustments_start_margin_landscape_title">Start Margin - Landscape</string>
+    	<string name="adjustments_start_margin_summary">Blurred background start margin</string>
+    	
+</resources>
